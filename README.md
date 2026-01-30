@@ -16,4 +16,4 @@ In addition, the project has one text file:
 
 
 
-![Image](https://github.com/user-attachments/assets/3af809ce-5c2d-4376-b167-e4685c8c9bfc)
+![Image](https://github.com/user-attachments/assets/f044670d-7ced-4efa-a844-8b34999fb4e7)
